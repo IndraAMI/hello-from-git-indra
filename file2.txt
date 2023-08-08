@@ -1,0 +1,2 @@
+Learning the difference between git and github
+The file is added to test the command
